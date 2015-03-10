@@ -7,12 +7,12 @@ Your idea not on that list? OK, now create an issue with the following informati
 Make the issue title as descriptive as possible so that someone watching the repo can quickly determine what it does. Then in the body of the issue, answer the following questions with as much information as possible:
 
 
-What will the package do?
-Relevant links (For e.g. API docs, related software)
-Are there other related software?
-What is the target audience
-Do you need help with development or are just suggesting the idea?
-what are some potential use cases?
+1. What will the package do?  
+2. Relevant links (For e.g. API docs, related software)  
+3. Are there other related software?  
+4. What is the target audience  
+5. Do you need help with development or are just suggesting the idea?  
+6. what are some potential use cases?  
 
 
 Once you have filed an issue with as much detail answering these questions, edit the wiki page `insert wiki page link` and add a link under the appropriate category with a link to your issue. The repo admins will follow up.
