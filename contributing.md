@@ -1,6 +1,6 @@
 # To add an R package to the wish list, follow these guidelines below.
 
-First search the issues to make sure someone hasn't already listed it before. You can also look at the wiki page `insert wiki page link` for faster browsing.
+First search the issues to make sure someone hasn't already listed it before. You can also look at the [wiki page](https://github.com/ropensci/wishlist/wiki) for faster browsing.
 
 Your idea not on that list? OK, now create an issue with the following information:
 
@@ -15,4 +15,4 @@ Make the issue title as descriptive as possible so that someone watching the rep
 6. what are some potential use cases?  
 
 
-Once you have filed an issue with as much detail answering these questions, edit the wiki page `insert wiki page link` and add a link under the appropriate category with a link to your issue. The repo admins will follow up.
+Once you have filed an issue with as much detail answering these questions, edit the [wiki page](https://github.com/ropensci/wishlist/wiki) and add a link under the appropriate category with a link to your issue. The repo admins will follow up.
